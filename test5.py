@@ -6,7 +6,7 @@ import time
 from email.message import EmailMessage
 
 # --- CONFIGURATION ---
-ESP_IP = "172.31.172.7" 
+ESP_IP = "10.54.255.7" 
 PUMP_URL = f"http://{ESP_IP}/pump"
 
 EMAIL_ID = "an2177287@gmail.com"
